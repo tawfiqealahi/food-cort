@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken Teriyaki",
+      "short_description": "Juicy grilled chicken glazed with homemade teriyaki sauce.",
+      "recipe_image": "https://example.com/images/grilled-chicken-teriyaki.jpg",
+      "ingredients": [
+        "550 g chicken breast",
+        "120 ml soy sauce",
+        "2 tbsp honey",
+        "1 tsp ginger",
+        "1 clove garlic"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Pasta Primavera",
+      "short_description": "Fresh vegetables tossed with pasta in a light garlic sauce.",
+      "recipe_image": "https://example.com/images/pasta-primavera.jpg",
+      "ingredients": [
+        "200 g pasta",
+        "1 bell pepper",
+        "1 zucchini",
+        "100 g cherry tomatoes",
+        "2 cloves garlic"
+      ],
+      "preparing_time": "20 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Classic Beef Tacos",
+      "short_description": "Ground beef seasoned with spices and served with toppings.",
+      "recipe_image": "https://example.com/images/classic-beef-tacos.jpg",
+      "ingredients": [
+        "500 g ground beef",
+        "100 g taco seasoning",
+        "120 g shredded lettuce",
+        "100 g cheese",
+        "8 taco shells"
+      ],
+      "preparing_time": "25 min",
+      "calories": "480 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Colorful vegetables stir-fried in a tangy soy sauce.",
+      "recipe_image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "ingredients": [
+        "1 bell pepper",
+        "200 g broccoli",
+        "100 g carrots",
+        "100 ml soy sauce",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "15 min",
+      "calories": "180 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy risotto cooked with mushrooms and Parmesan.",
+      "recipe_image": "https://example.com/images/mushroom-risotto.jpg",
+      "ingredients": [
+        "400 g Arborio rice",
+        "400 g mushrooms",
+        "1 liter chicken broth",
+        "100 g Parmesan cheese",
+        "1 onion"
+      ],
+      "preparing_time": "45 min",
+      "calories": "370 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Avocado Salad",
+      "short_description": "Healthy salad with avocado, cherry tomatoes, and cucumber.",
+      "recipe_image": "https://example.com/images/avocado-salad.jpg",
+      "ingredients": [
+        "1 avocado",
+        "100 g cherry tomatoes",
+        "1 cucumber",
+        "50 g red onion",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "10 min",
+      "calories": "210 calories"
+    }
+  ]
+  
