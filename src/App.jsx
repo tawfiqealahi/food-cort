@@ -1,5 +1,6 @@
 
 import './App.css'
+import Header from './components/Header'
 import Navbar from './Navbar'
 
 function App() {
@@ -7,7 +8,8 @@ function App() {
 
   return (
     <>
-     <Navbar></Navbar>
+  <Navbar></Navbar>
+  <Header></Header>
       
     
     </>

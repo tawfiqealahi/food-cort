@@ -14,6 +14,7 @@ const Navbar = () => {
             </div>
             <div  className='w-1/4 flex ms-20 '>
                 <input className=' w-4/5 rounded-md pl-4 placeholder:text-slate-400 block   bg-gray-100 ' type="text" placeholder='Search'  name="search" id="" />
+
                 <a className=' ' href="*"><CgProfile className='text-xl rounded-full hover:bg-[#0BE58A]  ' /></a>
 
             </div>
