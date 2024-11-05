@@ -1,7 +1,7 @@
 
 import './App.css'
 import Header from './components/Header'
-import Recipes from './components/Recipes/Recipes'
+import Recipes from './components/Recipies/Recipes'
 
 import Navbar from './Navbar'
 
